@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 
 int main() {
@@ -43,4 +42,6 @@ int main() {
 	cout << "------------------------------" << endl;
 	cout << a << operasi << b << " = " << hasil << endl;
 	cout << "------------------------------" << endl;
+
+	return 0;
 }
